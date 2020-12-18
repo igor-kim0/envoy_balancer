@@ -1,0 +1,4 @@
+config_envoy: "cds.yaml"
+config_port: "8888"
+config_path_health: "/"
+config_path_hardware: "/hardware"
